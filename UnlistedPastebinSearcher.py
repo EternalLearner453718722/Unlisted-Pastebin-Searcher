@@ -1,3 +1,4 @@
+#For hackguru.tech
 #The following is a .py file which aims to find unlisted pastebins by generating random strings. The 
 #python code is below and it sure could use some improvements, so feel free to comment any 
 #changes you made or found useful that helped the functionality. You essentially just leave this script 
